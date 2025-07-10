@@ -1,0 +1,4 @@
+2025-07-10 19:09:35,786 - ERROR - \u274c Stop-Limit order failed: name 'ORDER_TYPE_STOP' is not defined
+2025-07-10 19:11:08,873 - ERROR - \u274c Stop-Limit order failed: name 'ORDER_TYPE_STOP' is not defined
+2025-07-10 19:24:28,640 - ERROR - \u274c Stop-Limit order failed: name 'ORDER_TYPE_STOP_MARKET' is not defined
+2025-07-10 20:13:11,133 - ERROR - \u274c Stop-Limit order failed: APIError(code=-2015): Invalid API-key, IP, or permissions for action
